@@ -1,3 +1,4 @@
 role,NetID,LastName,FirstName
 boss,lschimmelpfe,Schimmelpfennig,Lars
 employee,czhang759,Zhang,Chaoyu
+employee,cko27,Ko,Charlie
